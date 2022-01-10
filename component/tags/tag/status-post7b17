@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/spcookieconsent/assets/css/style.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Flex - Multi-Purpose Joomla Template - Flex - Multi-Purpose Joomla Template</title>
+	<subtitle type="text">Flex is the bestseller, flexible, multi-purpose Joomla template that can fit in any type of website you are building. Clean, flexible, responsive, includes drag &amp; drop Layout and Page Builder and comes packed with powerful options! Simply Powerful - Powerfully Simple! From Aplikko!</subtitle>
+	<link rel="alternate" type="text/html" href="https://flex.aplikko.com"/>
+	<id>https://flex.aplikko.com/component/tags/tag/status-post</id>
+	<updated>2022-01-10T07:21:38+00:00</updated>
+	<author>
+		<name>Flex</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://flex.aplikko.com/component/tags/tag/status-post?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Single-Origin Coffee Master</title>
+		<link rel="alternate" type="text/html" href="https://flex.aplikko.com/posts/status-post-format"/>
+		<published>2020-03-20T20:49:46+00:00</published>
+		<updated>2020-03-20T20:49:46+00:00</updated>
+		<id>https://flex.aplikko.com/posts/status-post-format</id>
+		<summary type="html">&lt;p&gt;Replenish bearing behold itself seas appear, image kind stars lights bearing. Form evening good green. Fill signs from whose unto, moving own wherein she'd. Was years unto a upon all, own was. To Bearing thing god which place that bearing thing. Fifth form him third you our, shall and fly creeping seed subdue.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Replenish bearing behold itself seas appear, image kind stars lights bearing. Form evening good green. Fill signs from whose unto, moving own wherein she'd. Was years unto a upon all, own was. To Bearing thing god which place that bearing thing. Fifth form him third you our, shall and fly creeping seed subdue.&lt;/p&gt;
+</content>
+		<category term="Single-Origin Coffee Master" />
+	</entry>
+</feed>

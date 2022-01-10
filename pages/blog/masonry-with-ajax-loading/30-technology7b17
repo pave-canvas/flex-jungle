@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/spcookieconsent/assets/css/style.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Flex - Multi-Purpose Joomla Template - Masonry with Ajax Loading</title>
+	<subtitle type="text">Flex is the bestseller, flexible, multi-purpose Joomla template that can fit in any type of website you are building. Clean, flexible, responsive, includes drag &amp; drop Layout and Page Builder and comes packed with powerful options! Simply Powerful - Powerfully Simple! From Aplikko!</subtitle>
+	<link rel="alternate" type="text/html" href="https://flex.aplikko.com"/>
+	<id>https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/30-technology</id>
+	<updated>2022-01-10T07:28:51+00:00</updated>
+	<author>
+		<name>Flex</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/30-technology?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Does a Blog Post Look Better With a Featured Image?</title>
+		<link rel="alternate" type="text/html" href="https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/30-technology/52-does-a-blog-post-look-better-with-a-featured-image"/>
+		<published>2020-03-20T20:49:46+00:00</published>
+		<updated>2020-03-20T20:49:46+00:00</updated>
+		<id>https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/30-technology/52-does-a-blog-post-look-better-with-a-featured-image</id>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://flex.aplikko.com/images/blog/ajax-articles/flex-iwatch.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;We offer a range of training packages in a range of subject areas and can offer blended learning opportunities to best meet your needs. If sitting in a room with a trainer and having the opportunity for discussion with other learners sounds good to you then we can offer this. If you have enough people wanting to attend the same course then we can run one just for you. If you prefer to study in your own time and at your own speed then one of our e learning packages may be right up your street. There is a third option, which is like the sound of both but perhaps can’t attend all training sessions, this is when blended learning comes into its own.&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://flex.aplikko.com/images/blog/ajax-articles/flex-iwatch.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;We offer a range of training packages in a range of subject areas and can offer blended learning opportunities to best meet your needs. If sitting in a room with a trainer and having the opportunity for discussion with other learners sounds good to you then we can offer this. If you have enough people wanting to attend the same course then we can run one just for you. If you prefer to study in your own time and at your own speed then one of our e learning packages may be right up your street. There is a third option, which is like the sound of both but perhaps can’t attend all training sessions, this is when blended learning comes into its own.&lt;/span&gt;&lt;/p&gt;
+</content>
+		<category term="Technology" />
+	</entry>
+	<entry>
+		<title>Are Profits Progressive Or Is Profit a Dirty Word?</title>
+		<link rel="alternate" type="text/html" href="https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/30-technology/53-are-profits-progressive-or-is-profit-a-dirty-word"/>
+		<published>2020-03-20T20:49:46+00:00</published>
+		<updated>2020-03-20T20:49:46+00:00</updated>
+		<id>https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/30-technology/53-are-profits-progressive-or-is-profit-a-dirty-word</id>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.ytimg.com/vi/tdHwewUuXBg/hqdefault.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Would the world be better off without them? Or are profits progressive -- the only thing that can move potatoes from Idaho to Manhattan and medicine from America to Africa? Professor and economist Walter William Shakespeareaux II explains. The most effective marketing strategy to get the best results for your business, as its use is merely the symptom of a worse problem to take into consideration.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://i.ytimg.com/vi/tdHwewUuXBg/hqdefault.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Would the world be better off without them? Or are profits progressive -- the only thing that can move potatoes from Idaho to Manhattan and medicine from America to Africa? Professor and economist Walter William Shakespeareaux II explains. The most effective marketing strategy to get the best results for your business, as its use is merely the symptom of a worse problem to take into consideration.&lt;/p&gt;</content>
+		<category term="Technology" />
+	</entry>
+	<entry>
+		<title>How to Support Your Own Support Team?</title>
+		<link rel="alternate" type="text/html" href="https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/30-technology/54-how-to-support-your-own-support-team"/>
+		<published>2020-03-20T20:49:46+00:00</published>
+		<updated>2020-03-20T20:49:46+00:00</updated>
+		<id>https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/30-technology/54-how-to-support-your-own-support-team</id>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://image.freepik.com/free-vector/support-team_1212-35.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Service for extended hours or to include weekends or bank holidays cost up to $80.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://image.freepik.com/free-vector/support-team_1212-35.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Service for extended hours or to include weekends or bank holidays cost up to $80.&lt;/p&gt;
+</content>
+		<category term="Technology" />
+	</entry>
+</feed>
